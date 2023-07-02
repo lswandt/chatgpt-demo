@@ -25,9 +25,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: 'ChatGPT-API Demo',
-        short_name: 'ChatGPT Demo',
-        description: 'A demo repo based on OpenAI API',
+        name: '程序小筑-智能助手',
+        short_name: '小筑助手',
+        description: 'A chat robot based on WanDou proxy API',
         theme_color: '#212129',
         background_color: '#ffffff',
         icons: [
